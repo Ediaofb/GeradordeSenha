@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Arquivos específicos do usuário
+*.csproj.user
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de assinatura
+*.pfx
